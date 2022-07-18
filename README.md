@@ -1,6 +1,6 @@
 # Wastewater Analysis Project
 
-![This is an image](Project_Mgmt/Instacart_logo.png)
+![This is an image](Project_Mgmt/wastewater.jpg)
 
 ## SCENARIO
 Wastewater analysis is a rapidly developing scientific discipline with the potential for monitoring illicit drug use. The European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) works closely with the Sewage analysis group (SCORE) which has been collecting data indicating the amount of drug residues in wastewater in major European cities since 2011. In this open source data project we explore geographical and temporal trends in illicit drug use covering cannabis, cocaine, amphetamine, methamphetamine and MDMA (ecstasy) and examine the relationship between drug usage and wealth (GDP per Capita).
