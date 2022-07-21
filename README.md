@@ -30,4 +30,4 @@ Wastewater analysis is a rapidly developing scientific discipline with the poten
    - Which illicit drugs are the most used in which area of Europe? 
    - What temporal trends can be observed? 
    - How did the pandemic affect the drug use in 2020-2021 when social events and interactions were strongly limited? 
-   - Is there a connection between illicit drug use and city size / drug usage and country’s wealth (GDP per capita)? 
+   - Is there a connection between illicit drug use and country’s wealth (GDP per capita)? 
