@@ -25,7 +25,7 @@ Wastewater analysis is a rapidly developing scientific discipline with the poten
 - [x] Performed regression analysis: GDP per Capita vs. Daily mean of drug residue in wastewater
 - [x] Performed clustering : looking for meaningful subgroups in the dataset
 - [x] Conducted time series analysis for a a selected year and metabolite
-- [x] Created visualizations in Tableau to make insights easier consumable for the presentation’s audience. Link to the [Storyboard]https://public.tableau.com/views/DrugsinmunicipalwastewaterinselectedEuropeancities/STORY?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) . 
+- [x] Created visualizations in Tableau to make insights easier consumable for the presentation’s audience. Link to the [Storyboard](https://public.tableau.com/views/DrugsinmunicipalwastewaterinselectedEuropeancities/STORY?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) . 
 - [x] Key aspects presented:
    - Which illicit drugs are the most used in which area of Europe? 
    - What temporal trends can be observed? 
